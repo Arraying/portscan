@@ -12,7 +12,7 @@ Port range scanner implementation in Go
 
 ## Usage
 
-Run the binaries with the desired flags.
+Run the binary with the desired flags.
 
 ### Required flags
 
