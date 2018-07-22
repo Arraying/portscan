@@ -16,9 +16,9 @@ Run the binary with the desired flags.
 
 ### Required flags
 
-* `host` The host address (IPv4) of the target
-* `min` The minimum port number (inclusive)
-* `max` The maximum port number (inclusive)
+* `host` The host address (IPv4) of the target.
+* `min` The minimum port number (inclusive).
+* `max` The maximum port number (inclusive).
 
 ### Optional flags
 
